@@ -3,7 +3,7 @@
 
 class Provider {
 
-    api = "https://jkanime.net/api"
+    api = "https://jkanime.net/"
 
     getSettings(): Settings {
         return {
@@ -139,5 +139,6 @@ class Provider {
             }],
         };
     }
+
 
 }
