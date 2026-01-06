@@ -14,7 +14,7 @@ class Provider {
 
     async search(query: SearchOptions): Promise<SearchResult[]> {
         const res = await fetch(`${this.api}/browse`, {
-            method: "GET",
+            method: "get",
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
                 "X-Requested-With": "XMLHttpRequest",
@@ -142,3 +142,4 @@ class Provider {
 
 
 }
+
