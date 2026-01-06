@@ -5,7 +5,7 @@
   "manifestURI": "https://github.com/PakuuSb/seaext/blob/main/manifest.json",
   "language": "typescript",
   "type": "onlinestream-provider",
-  "description": "Online streaming provider for spanish subbed anime.",
+  "description": "Proveedor de anime",
   "author": "Paku",
   "icon": "https://github.com/PakuuSb/seaext/blob/main/icon.ico",
   "lang": "es",
