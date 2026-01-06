@@ -7,7 +7,7 @@
   "type": "onlinestream-provider",
   "description": "Proveedor de anime",
   "author": "Paku",
-  "icon": "https://github.com/PakuuSb/seaext/blob/main/icon.ico?raw=true",
+  "icon": "https://raw.githubusercontent.com/PakuuSb/seaext/refs/heads/main/icon.ico",
   "lang": "es",
   "payloadURI": "https://github.com/PakuuSb/seaext/blob/main/JKanime.ts?raw=true"
 }
